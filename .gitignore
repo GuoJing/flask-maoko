@@ -1,5 +1,6 @@
 # py
 *.pyc
+*.egg-info
 *~
 # editor
 *.sw[opnlm]
@@ -25,3 +26,7 @@ stdout
 
 # watcher
 .idea/
+
+Flask-Maoko-0.1
+dist
+build

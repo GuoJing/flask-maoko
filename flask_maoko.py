@@ -6,8 +6,11 @@
     Extension implementing Mako Templates support in Flask with support for
     flask-babel
 
-    :copyright: (c) 2012 by Béranger Enselme <benselme@gmail.com>
+    Flask-maoko is based on Flask-Mako
+
+    :copyright: (c) 2015 by GuoJing <soundbbg@gmail.com>
     :license: BSD, see LICENSE for more details.
+    :origin author Béranger Enselme <benselme@gmail.com>
 """
 import os
 import sys
