@@ -16,7 +16,7 @@ from setuptools import setup
 
 setup(
     name='Flask-Maoko',
-    version='0.1',
+    version='0.1.1',
     url='https://github.com/GuoJing/flask-maoko',
     license='BSD',
     author='Beranger Enselme, Frank Murphy, GuoJing',
