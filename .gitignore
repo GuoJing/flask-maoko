@@ -1,0 +1,27 @@
+# py
+*.pyc
+*~
+# editor
+*.sw[opnlm]
+
+.DS_Store
+.coverage
+
+# in dev
+/venv/
+/node_modules/
+/jupiter/static
+/jupiter/templates
+/tmp
+/.env
+/.vagrant
+
+*.rdb
+*.dump
+snapshot
+stdin
+stdout
+*#
+
+# watcher
+.idea/
